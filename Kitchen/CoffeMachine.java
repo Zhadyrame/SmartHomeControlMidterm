@@ -1,7 +1,7 @@
 package Kitchen;
 import Devices.SmartDevice;
 
-public class CoffeeMachine implements SmartDevice {
+public class CoffeMachine implements SmartDevice {
     private boolean isBrewing = false;
 
     @Override
